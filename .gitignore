@@ -1,0 +1,21 @@
+# Классификация по папкам для сборок и временных файлов
+bin/
+obj/
+
+# Конфигурационные файлы Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Папка с настройками VS Code
+.vscode/
+
+# Папка с настройками для JetBrains Rider
+.idea/
+
+# Логи и отчеты об ошибках
+*.log
+
+# Конфигурационные файлы для WinForms дизайнеров
+*.Designer.cs
